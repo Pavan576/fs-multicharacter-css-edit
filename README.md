@@ -1,5 +1,8 @@
 # fs-multicharacter
 
+# Change Log
+- Fixed For QB-clothing
+
 Re-edited by [Munna Dev] (https://github.com/Pavan576)
 First Release From My Side Which Is An CSS Edit
 Updated :- Changed Ui Theme
